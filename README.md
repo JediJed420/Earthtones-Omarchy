@@ -1,2 +1,2 @@
-# Earthtones-Ormachy
-Earthtones Ormachy Theme
+# Earthtones-Omarchy
+Earthtones Omarchy Theme
